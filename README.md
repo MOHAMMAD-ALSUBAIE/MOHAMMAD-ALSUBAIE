@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MOHAMMAD-ALSUBAIE
 - 🌍 I'm based in KSA, Dammam
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me ...
      <p align="left"><a href="https://www.linkedin.com/in/mohammed-alsubaie-309bb923b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/Moh_AboFahad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
