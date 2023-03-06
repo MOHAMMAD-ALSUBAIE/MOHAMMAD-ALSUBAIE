@@ -13,7 +13,7 @@ Skills
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" alt="Bootstrp" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c0433d458322163ec6f1f9ba02ba0f29f723cff25b5420955b241715f09ec95c/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3434342f3438342f706e672d7472616e73706172656e742d6d7973716c2d64617461626173652d656e63617073756c617465642d706f73747363726970742d6c6f676f2d6a71756572792d626c75652d746578742d6c6f676f2d7468756d626e61696c2e706e67" width="40" height="40" alt="Mysql" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40" height="40" alt="Mysql" /></a>
 
 <!---
 MOHAMMAD-ALSUBAIE/MOHAMMAD-ALSUBAIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
