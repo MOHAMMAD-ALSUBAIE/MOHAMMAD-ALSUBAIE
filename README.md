@@ -14,6 +14,8 @@ Skills
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" alt="Bootstrp" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40" height="40" alt="Mysql" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.php.net//images/logos/php-logo.svg" width="40" height="40" alt="PHP" /></a>
+
 
 <!---
 MOHAMMAD-ALSUBAIE/MOHAMMAD-ALSUBAIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
