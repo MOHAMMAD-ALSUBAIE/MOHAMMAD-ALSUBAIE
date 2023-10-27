@@ -1,4 +1,4 @@
-Hey 👋,
+Hey 👋,<br/>
 I'm Computer Science Student, who is interested in web development and have the ability to work as a Full-Stack developer
 - 🌍 I'm based in KSA, Dammam
 - 👀 I’m interested in web development
