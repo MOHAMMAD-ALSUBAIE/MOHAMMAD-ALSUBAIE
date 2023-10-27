@@ -2,7 +2,7 @@ Hey 👋,<br/>
 I'm Computer Science Student, who  interested in web development and <br>have the ability to work as a Full-Stack developer
 - 🌍 I'm based in KSA, Dammam
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ...
 - 📫 How to reach me ...
      <p align="left"><a href="https://www.linkedin.com/in/mohammed-alsubaie-309bb923b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/Moh_AboFahad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
