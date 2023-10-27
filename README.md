@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MOHAMMAD-ALSUBAIE
+Hey 👋,
+I'm Computer Science Student, who is interested in web development and have the ability to work as a Full-Stack developer
 - 🌍 I'm based in KSA, Dammam
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJS
@@ -7,7 +8,7 @@
 
 
 Skills
-
+https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -15,7 +16,9 @@ Skills
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" alt="Bootstrp" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40" height="40" alt="Mysql" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.php.net//images/logos/new-php-logo.svg" width="40" height="40" alt="PHP" /></a>
-
+<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png
+" width="40" height="40" alt="React" /></a>
 
 <!---
 MOHAMMAD-ALSUBAIE/MOHAMMAD-ALSUBAIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
