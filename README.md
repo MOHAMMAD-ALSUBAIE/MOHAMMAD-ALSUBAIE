@@ -17,7 +17,7 @@ Skills
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.php.net//images/logos/new-php-logo.svg" width="40" height="40" alt="PHP" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://www.pngfind.com/pngs/m/168-1683198_node-js-logo-png-transparent-png.png" width="40" height="40" alt="Nodejs" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/532e7f0e2a18756d452f215749bbf270182280689b091516bdf0ff97e3d8e9c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" width="40" height="40" alt="Nodejs" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/532e7f0e2a18756d452f215749bbf270182280689b091516bdf0ff97e3d8e9c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"  alt="Nodejs" /></a>
 
 
 <!---
