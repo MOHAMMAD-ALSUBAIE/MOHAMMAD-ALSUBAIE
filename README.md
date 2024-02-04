@@ -1,6 +1,5 @@
 Hey 👋,<br/>
 I'm Computer Science Student, who  interested in web development and <br>have the ability to work as a Full-Stack developer
-- 🌍 I'm based in KSA, Dammam
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
