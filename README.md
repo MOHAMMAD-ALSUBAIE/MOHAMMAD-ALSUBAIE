@@ -26,7 +26,7 @@
 <a href="https://wagtail.org/" target="_blank"><img src="https://raw.githubusercontent.com/wagtail/wagtail/main/.github/wagtail-logo.svg" width="80" alt="Wagtail CMS" /></a>
 
 **Others**  
-Docker • PostgreSQL • Git • Nginx • Celery • Redis • AWS EC2 & S3 • 
+Docker • PostgreSQL • Git  • Celery • Redis • Nodejs • Nestjs 
 
 ---
 
