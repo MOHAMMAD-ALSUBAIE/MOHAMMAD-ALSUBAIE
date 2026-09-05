@@ -71,15 +71,7 @@ Docker • Nginx (reverse proxy, SSL) • AWS EC2 • CI/CD pipelines • Linux 
 
 ---
 
-### 📌 What I'm working on
 
-<!-- Replace these with 2-3 of your actual projects -->
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Project name](https://github.com/MOHAMMAD-ALSUBAIE) | One line on what it does and the problem it solves. | Django, React, PostgreSQL |
-| [Project name](https://github.com/MOHAMMAD-ALSUBAIE) | One line on what it does and the problem it solves. | NestJS, Next.js, Redis |
-
----
 
 ### 📊 GitHub Stats
 
